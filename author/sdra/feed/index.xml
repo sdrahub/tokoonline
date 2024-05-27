@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sdra &#8211; Ling Online</title>
+	<atom:link href="https://sdrahub.github.io/tokoonline/author/sdra/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sdrahub.github.io/tokoonline</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 May 2024 13:36:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Tempe Manyusss</title>
+		<link>https://sdrahub.github.io/tokoonline/tempe-manyusss/</link>
+					<comments>https://sdrahub.github.io/tokoonline/tempe-manyusss/#respond</comments>
+		
+		<dc:creator><![CDATA[sdra]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 13:36:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://sdrahub.github.io/tokoonline/?p=221</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At elementum eu facilisis sed odio morbi quis commodo odio. Id nibh tortor id aliquet. Dui id ornare arcu odio ut sem nulla. Cursus sit amet dictum sit amet justo donec enim diam. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Vitae auctor eu augue ut lectus arcu bibendum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Eu turpis egestas pretium aenean pharetra magna. Neque volutpat ac tincidunt vitae semper quis lectus. Libero id faucibus nisl tincidunt eget nullam non.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sdrahub.github.io/tokoonline/tempe-manyusss/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gorengan di Ling</title>
+		<link>https://sdrahub.github.io/tokoonline/gorengan-di-ling/</link>
+					<comments>https://sdrahub.github.io/tokoonline/gorengan-di-ling/#respond</comments>
+		
+		<dc:creator><![CDATA[sdra]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 13:34:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://sdrahub.github.io/tokoonline/?p=219</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At elementum eu facilisis sed odio morbi quis commodo odio. Id nibh tortor id aliquet. Dui id ornare arcu odio ut sem nulla. Cursus sit amet dictum sit amet justo donec enim diam. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Vitae auctor eu augue ut lectus arcu bibendum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Eu turpis egestas pretium aenean pharetra magna. Neque volutpat ac tincidunt vitae semper quis lectus. Libero id faucibus nisl tincidunt eget nullam non.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sdrahub.github.io/tokoonline/gorengan-di-ling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ling Gorengan</title>
+		<link>https://sdrahub.github.io/tokoonline/ling-gorengan/</link>
+					<comments>https://sdrahub.github.io/tokoonline/ling-gorengan/#respond</comments>
+		
+		<dc:creator><![CDATA[sdra]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 13:32:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://sdrahub.github.io/tokoonline/?p=216</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vestibulum mattis ullamcorper velit. Congue eu consequat ac felis donec et odio pellentesque diam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sdrahub.github.io/tokoonline/ling-gorengan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
